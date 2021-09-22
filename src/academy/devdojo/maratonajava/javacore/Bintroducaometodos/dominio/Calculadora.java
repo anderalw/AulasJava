@@ -34,6 +34,5 @@ public class Calculadora {
             return;
         }
         System.out.println(num1 / num2);
-
     }
 }
